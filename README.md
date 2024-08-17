@@ -10,9 +10,11 @@ The site has 4 pages, Index, About, Contact me and a 404 Page for when users tri
 
 The website doesn't have any css and any original html content (except of the few lines in each page) as the main goal of this project was to use Node to handle the different requests.
 
+The main branch is simply using NodeJS while the "Express" one is using the Express Framework.
+
 ### Build With
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,html&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,npm,html&theme=light)](https://skillicons.dev)
 
 ## License
 
@@ -27,6 +29,7 @@ Project Repository Link: [Basic Informational Website](https://github.com/Nestor
 ## Acknoledgements
 
 - [NodeJS](https://nodejs.org/en)
+- [Express](https://expressjs.com/)
 - [W3Schools](https://www.w3schools.com/nodejs/)
 
 <p align='right'>(<a href='#top'>back to top</a>)</p>
