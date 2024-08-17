@@ -1,0 +1,19 @@
+{
+  "name": "basic-informational-website",
+  "version": "1.0.0",
+  "description": "https://github.com/NestorNebula/basic-informational-website?tab=readme-ov-file#description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NestorNebula/basic-informational-website.git"
+  },
+  "author": "Noa Houssier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NestorNebula/basic-informational-website/issues"
+  },
+  "homepage": "https://github.com/NestorNebula/basic-informational-website#readme"
+}
