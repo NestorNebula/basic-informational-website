@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NestorNebula/basic-informational-website/issues"
   },
-  "homepage": "https://github.com/NestorNebula/basic-informational-website#readme"
+  "homepage": "https://github.com/NestorNebula/basic-informational-website#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
